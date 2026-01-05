@@ -16,9 +16,9 @@ If you don't have Python, download it from [python.org](https://www.python.org/d
 ### Prerequisites
 
 To use the program, prepare:
-- **Registration number**
-- **VIN** (17 characters)
-- **Year or years** you want to check (e.g., `2026` or `2025, 2026`)
+- **Polish Registration Number**
+- **VIN Number**
+- **Year or years** you want to check (e.g., `2026` or `2025,2026`)
 
 ### How to run step-by-step
 
@@ -26,7 +26,7 @@ Open your terminal and follow these steps:
 
    ```bash
    git clone https://github.com/MacPal2002/pl-vehicle-registration-date-recovery.git
-   cd historia-pojazdu
+   cd pl-vehicle-registration-date-recovery
 
    python3 -m venv .venv
    
